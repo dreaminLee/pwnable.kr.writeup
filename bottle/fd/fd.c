@@ -1,6 +1,7 @@
 // learn about linux file descriptor
 // solution: set fd to stdin which is 0
-// writeup: ./fd 4660
+// writeup: ./fd 4660 then enter LETMEWIN
+// flag: mommy! I think I know what a file descriptor is!!
 
 #include <stdio.h>
 #include <stdlib.h>
